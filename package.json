@@ -34,7 +34,7 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.8.7",
     "@cybozu/eslint-config": "^17.0.0",
-    "@open-wc/testing": "^2.5.17",
+    "@open-wc/testing": "^3.0.3",
     "@open-wc/testing-karma": "^4.0.9",
     "@storybook/addon-a11y": "^6.3.12",
     "@storybook/addon-viewport": "^6.3.12",
