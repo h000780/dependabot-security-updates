@@ -59,7 +59,7 @@
     "core-js": "^3.6.5",
     "dompurify": "^2.2.6",
     "lit-element": "^3.1.1",
-    "lit-html": "^1.2.1",
+    "lit-html": "^2.2.4",
     "regenerator-runtime": "^0.13.5",
     "uuid": "^8.3.0"
   }
