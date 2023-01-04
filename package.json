@@ -41,7 +41,7 @@
     "@storybook/builder-webpack5": "^6.3.12",
     "@storybook/manager-webpack5": "^6.3.12",
     "@storybook/web-components": "^6.3.12",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^9.1.2",
     "deepmerge": "^4.2.2",
     "eslint": "^7.18.0",
     "karma": "^6.3.2",
